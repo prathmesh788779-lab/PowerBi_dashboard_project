@@ -1,5 +1,4 @@
 # PowerBi_dashboard_project
-# Power BI Sales Dashboard Project
 
 ## Project Overview
 This repository contains a **Sales Dashboard built using Microsoft Power BI**.  

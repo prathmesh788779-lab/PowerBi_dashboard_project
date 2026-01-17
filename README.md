@@ -108,6 +108,11 @@ Created basic measures such as:
 - Business intelligence reporting
 
 ---
+
+## Dashboard Preview
+![Power BI Sales Dashboard](dashboard.png)
+
+---
 ## Author
 **Prathmesh**  
 Aspiring Data Analyst | Power BI Learner
